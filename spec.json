@@ -15,7 +15,7 @@
           }
         },
         "blockRewardContractAddress": "0x3145197AD50D7083D0222DE4fCCf67d9BD05C30D",
-        "blockRewardContractTransition": 3000
+        "blockRewardContractTransition": 6000000
       }
     }
   },
