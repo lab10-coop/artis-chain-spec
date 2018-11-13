@@ -33,7 +33,7 @@
 		"eip1014Transition": "0",
 		"eip1052Transition": "0",
 		"eip1283Transition": "0",
-    "wasm": true
+    "wasmActivationTransition": "0x49BB0"
   },
   "genesis": {
     "seal": {
